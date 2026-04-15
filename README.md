@@ -1,1 +1,1 @@
-# Recipe-page
+This is a simple Omellete recipe
